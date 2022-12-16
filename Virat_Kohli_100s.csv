@@ -23,7 +23,7 @@ Number,Format,Inning,Position,Score,Balls,Strike Rate,Against,Venue,Host Nation,
 22,Test,1,4,119,181,65.74585635,South Africa,Johannesburg,South Africa,Bilateral,2013,280,10,No,Yes,Yes,No
 23,ODI,2,3,123,111,110.8108108,New Zealand,Napier,New Zealand,Bilateral,2014,268,10,No,No,No,No
 24,Test,4,4,105,135,77.77777778,New Zealand,Wellington,New Zealand,Bilateral,2014,166,3,Yes,No,Drawn,No
-25,ODI,2,3,136,122,111.4754098,Bangladesh,Fatullah,Bangladesh,Asia Cup,2014,280,4,No,Yes,Yes,No
+25,ODI,2,3,136,122,111.4754098,Bangladesh,Fatullah,Bangladesh,Asia Cup,2014,280,4,No,Yes,Yes,Yes
 26,ODI,1,3,127,114,111.4035088,West Indies,Dharamshala,India,Bilateral,2014,330,6,No,Yes,Yes,No
 27,ODI,2,4,139,126,110.3174603,Sri Lanka,Ranchi,India,Bilateral,2014,288,3,Yes,No,Yes,Yes
 28,Test,2,4,115,184,62.5,Australia,Adelaide,Australia,Bilateral,2014,444,10,No,No,No,Yes
