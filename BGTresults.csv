@@ -199,17 +199,17 @@ Test Series Year,Test Number,Innings,Venue,Host,Highest Scorer,Team,Runs by high
 2020-21,4,2,Brisbane,Australia,Shardul Thakur,India,67,Josh Hazlewood,5,336/10,India,3w,Rishabh Pant,Ajinkya Rahane,Tim Paine,Pat Cummins,India
 2020-21,4,3,Brisbane,Australia,Steve Smith,Australia,55,Mohd. Siraj,5,294/10,India,3w,Rishabh Pant,Ajinkya Rahane,Tim Paine,Pat Cummins,India
 2020-21,4,4,Brisbane,Australia,Shubman Gill,India,91,Pat Cummins,4,329/7,India,3w,Rishabh Pant,Ajinkya Rahane,Tim Paine,Pat Cummins,India
-2022-23,1,1,Nagpur,India,Marnus Labuschagne,Australia,49,Ravindra Jadeja,5,177/10,India,132r,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin,
-2022-23,1,2,Nagpur,India,Rohit Sharma,India,120,Todd Murphy,7,400/10,India,132r,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin,
-2022-23,1,3,Nagpur,India,Steve Smith,Australia,25,Ravichandran Ashwin,5,91/10,India,132r,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin,
-2022-23,2,1,Delhi,India,Usman Khawaja,Australia,81,Mohd. Shami,4,263/10,India,6w,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin,
-2022-23,2,2,Delhi,India,Axar Patel,India,74,Nathan Lyon,5,262/10,India,6w,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin,
-2022-23,2,3,Delhi,India,Travis Head,Australia,43,Ravindra Jadeja,7,113/10,India,6w,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin,
-2022-23,2,4,Delhi,India,Rohit Sharma,India,31,Nathan Lyon,2,118/4,India,6w,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin,
-2022-23,3,1,Indore,India,Virat Kohli,India,22,Matthew Kuhnemann,5,109/10,Australia,9w,Nathan Lyon,Rohit Sharma,Steve Smith,Ravichandran Ashwin,
-2022-23,3,2,Indore,India,Usman Khawaja,Australia,60,Ravindra Jadeja,4,197/10,Australia,9w,Nathan Lyon,Rohit Sharma,Steve Smith,Ravichandran Ashwin,
-2022-23,3,3,Indore,India,Cheteshwar Pujara,India,59,Nathan Lyon,8,163/10,Australia,9w,Nathan Lyon,Rohit Sharma,Steve Smith,Ravichandran Ashwin,
-2022-23,3,4,Indore,India,Travis Head,Australia,49,Ravichandran Ashwin,1,78/1,Australia,9w,Nathan Lyon,Rohit Sharma,Steve Smith,Ravichandran Ashwin,
-2022-23,4,1,Ahmedabad,India,Usman Khawaja,Australia,180,Ravichandran Ashwin,6,480/10,Drawn,0,Virat Kohli,Rohit Sharma,Steve Smith,Ravichandran Ashwin,
-2022-23,4,2,Ahmedabad,India,Virat Kohli,India,186,Nathan Lyon,3,571/9,Drawn,0,Virat Kohli,Rohit Sharma,Steve Smith,Ravichandran Ashwin,
-2022-23,4,3,Ahmedabad,India,Travis Head,Australia,90,Axar Patel,1,175/2,Drawn,0,Virat Kohli,Rohit Sharma,Steve Smith,Ravichandran Ashwin,
+2022-23,1,1,Nagpur,India,Marnus Labuschagne,Australia,49,Ravindra Jadeja,5,177/10,India,132r,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,1,2,Nagpur,India,Rohit Sharma,India,120,Todd Murphy,7,400/10,India,132r,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,1,3,Nagpur,India,Steve Smith,Australia,25,Ravichandran Ashwin,5,91/10,India,132r,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,2,1,Delhi,India,Usman Khawaja,Australia,81,Mohd. Shami,4,263/10,India,6w,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,2,2,Delhi,India,Axar Patel,India,74,Nathan Lyon,5,262/10,India,6w,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,2,3,Delhi,India,Travis Head,Australia,43,Ravindra Jadeja,7,113/10,India,6w,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,2,4,Delhi,India,Rohit Sharma,India,31,Nathan Lyon,2,118/4,India,6w,Ravindra Jadeja,Rohit Sharma,Pat Cummins,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,3,1,Indore,India,Virat Kohli,India,22,Matthew Kuhnemann,5,109/10,Australia,9w,Nathan Lyon,Rohit Sharma,Steve Smith,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,3,2,Indore,India,Usman Khawaja,Australia,60,Ravindra Jadeja,4,197/10,Australia,9w,Nathan Lyon,Rohit Sharma,Steve Smith,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,3,3,Indore,India,Cheteshwar Pujara,India,59,Nathan Lyon,8,163/10,Australia,9w,Nathan Lyon,Rohit Sharma,Steve Smith,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,3,4,Indore,India,Travis Head,Australia,49,Ravichandran Ashwin,1,78/1,Australia,9w,Nathan Lyon,Rohit Sharma,Steve Smith,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,4,1,Ahmedabad,India,Usman Khawaja,Australia,180,Ravichandran Ashwin,6,480/10,Drawn,0,Virat Kohli,Rohit Sharma,Steve Smith,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,4,2,Ahmedabad,India,Virat Kohli,India,186,Nathan Lyon,3,571/9,Drawn,0,Virat Kohli,Rohit Sharma,Steve Smith,Ravichandran Ashwin-Ravindra Jadeja,India
+2022-23,4,3,Ahmedabad,India,Travis Head,Australia,90,Axar Patel,1,175/2,Drawn,0,Virat Kohli,Rohit Sharma,Steve Smith,Ravichandran Ashwin-Ravindra Jadeja,India
